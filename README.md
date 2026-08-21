@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 9 |
+| 21 | 9 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [games](#games) (1)
+- [games](#games) (2)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (5)
-- [math](#math) (13)
-- [number theory](#number-theory) (1)
+- [math](#math) (14)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
 
@@ -48,6 +48,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 
 ### greedy
@@ -79,6 +80,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
@@ -97,6 +99,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 
 ### sortings
