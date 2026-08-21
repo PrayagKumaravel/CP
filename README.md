@@ -6,20 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 8 |
+| 18 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [games](#games) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (8)
 - [implementation](#implementation) (4)
-- [math](#math) (10)
+- [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -30,6 +31,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.java) |
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 
 ### constructive algorithms
 
@@ -57,6 +59,8 @@
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2227/B%20-%20Party%20Monster/solution.java) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.java) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.java) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 
 ### implementation
 
@@ -81,6 +85,8 @@
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.java) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 
 ### number theory
 
@@ -94,6 +100,12 @@
 |---|---------|------------|----------|
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 
 ---
 
