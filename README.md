@@ -6,21 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 9 |
+| 20 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [games](#games) (1)
-- [greedy](#greedy) (9)
-- [implementation](#implementation) (4)
+- [greedy](#greedy) (10)
+- [implementation](#implementation) (5)
 - [math](#math) (13)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -37,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.java) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2227/C%20-%20Snowfall/solution.java) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.java) |
@@ -53,6 +54,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.java) |
@@ -67,6 +69,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2227/A%20-%20Koshary/solution.java) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.java) |
@@ -107,6 +110,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 
 ---
