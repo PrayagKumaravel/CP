@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 9 |
+| 26 | 9 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [constructive algorithms](#constructive-algorithms) (7)
 - [games](#games) (2)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (5)
-- [math](#math) (15)
+- [implementation](#implementation) (6)
+- [math](#math) (16)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -72,6 +72,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2227/A%20-%20Koshary/solution.java) |
@@ -82,6 +83,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
