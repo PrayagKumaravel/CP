@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 9 |
+| 25 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (5)
-- [math](#math) (14)
+- [math](#math) (15)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -82,6 +82,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.java) |
