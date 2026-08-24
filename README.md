@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 9 |
+| 27 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (6)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -83,6 +83,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
