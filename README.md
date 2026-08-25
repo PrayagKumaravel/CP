@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 9 |
+| 30 | 9 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (9)
-- [games](#games) (2)
-- [greedy](#greedy) (11)
+- [games](#games) (3)
+- [greedy](#greedy) (12)
 - [implementation](#implementation) (6)
-- [math](#math) (18)
+- [math](#math) (19)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -51,6 +51,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1858/A%20-%20Buttons/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 
@@ -58,6 +59,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1858/A%20-%20Buttons/solution.java) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
@@ -85,6 +87,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1858/A%20-%20Buttons/solution.java) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.java) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
