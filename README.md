@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 9 |
+| 32 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (9)
+- [constructive algorithms](#constructive-algorithms) (10)
 - [games](#games) (3)
 - [greedy](#greedy) (13)
 - [implementation](#implementation) (6)
-- [math](#math) (20)
+- [math](#math) (21)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -37,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.java) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.java) |
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.java) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.java) |
@@ -88,6 +89,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1858/A%20-%20Buttons/solution.java) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [Java 8](https://github.com/PrayagKumaravel/CP/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.java) |
